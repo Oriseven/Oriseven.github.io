@@ -5,12 +5,9 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am currently a Ph.D student in [Department of Information Engineering](http://www.ie.cuhk.edu.hk), [the Chinese University of Hong Kong](http://www.cuhk.edu.hk) under the supervision of Prof. He Chen. Previously, I received my Bachelor's Degree of Engineering from University of Electronic Science and Technology of China (UESTC) in 2020.
 
-## Current Interests and Projects:
+## Research Interest:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Wireless security
+- Industrial wireless
