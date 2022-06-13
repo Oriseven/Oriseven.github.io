@@ -9,22 +9,33 @@ Currently at the [Wireless Internet-of-Things Systems Research Group @ Chinese U
 
 ## Education
 
-`2016 - 2020`
-__University of Electronic Science and Technology of China__
-Degree Awarded
-BEng. in Communication Engineering
+`2020 - now`
+__The Chinese University of Hong Kong__
+Ph.D in Information Engineering
 
 `2017 Feb - Mar`
 __Oxford University__
 Exchange Program
 
+`2016 - 2020`
+__University of Electronic Science and Technology of China__
+BEng. in Communication Engineering
+
 ## Awards
 
+`2020 - 2024`
+CUHK Full Postgraduate Studentship
+
+
+`2020 - 2024`
+CUHK Vice-Chancellor’s PhD Scholarship Awardee
+
 `2018&2019`
-Excellent Student Scholarshi
+Excellent Student Scholarship
 
 `2018`
-Intel Cup Undergraduate Electronic Design Contest-Embedded System Design, 1st prize
+Intel Cup Undergraduate Electronic Design Contest-Embedded System Design
+1st prize
 
 
 ## Publications
