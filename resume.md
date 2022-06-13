@@ -5,64 +5,45 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Currently at the [Wireless Internet-of-Things Systems Research Group @ Chinese University of Hong Kong (CUHK)](http://iiotc.ie.cuhk.edu.hk/), I am working on projects of Physical layer WiFi device fingerprinting, Jamming and Sybil attack detect on mobile robots.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`2016 - 2020`
+__University of Electronic Science and Technology of China__
 Degree Awarded
+BEng. in Communication Engineering
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2017 Feb - Mar`
+__Oxford University__
+Exchange Program
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2018&2019`
+Excellent Student Scholarshi
+
+`2018`
+Intel Cup Undergraduate Electronic Design Contest-Embedded System Design, 1st prize
+
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Conference
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+`2019`
+R. Kong, Y. Quan, Y. Xiao, Q. Zhang, Y. Geng and H. Zhou, "Optical Superchannel Transmission
+using Cloned Kerr Soliton Microcombs as Mutually Coherent Carriers and Local Oscillators," 2019 Asia
+Communications and Photonics Conference (ACP), Chengdu, China, 2019, pp. 1-3.
 
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
 
 
 <!-- ### Footer
