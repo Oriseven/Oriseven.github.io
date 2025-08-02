@@ -10,8 +10,7 @@ redirect_from:
 I received my Ph.D. degree in Information Engineering from <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a> (CUHK), where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/chen-he-henry/">He Chen</a>. I received my bachelor's degree in Information and Communication Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> (UESTC). Currently, I am a Postdoctoral Researcher at Department of Information Engineering, CUHK. 
 
 
-I am passionate about leveraging signal processing and AI to address engineering challenges, bridging theoretical models and real-world applications. My research focuses on advancing wireless systems and sensing, with extensive experience in developing and optimizing algorithms for real-world environments.
-
+My research advances wireless system performance through physical-layer security, intelligent sensing, and AI-signal processing fusion. Recently, I have been focused on the cross-band channel prediction for 5G O-RAN systems, where I aim to combine physics-based modeling with deep learning to improve spectral efficiency in practical deployments.
 
 News <font size=3></font>
 ------
