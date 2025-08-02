@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "<font size=3>Postdoctoral Researcher,<br>IE Dept., CUHK</font>" #<center>
   location         : "Hong Kong SAR, China"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zzzoey.kk@gmail.com" 
 
   # Academic websites
   academia         : # URL
