@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ruiqi Kong (Zoey)"
   pronouns         : # example: "she/her"  
-  bio              : "<font size=3>Postdoctoral Researcher (incoming),<br>IE Dept., CUHK</font>" #<center>
+  bio              : "<font size=3>Postdoctoral Researcher,<br>IE Dept., CUHK</font>" #<center>
   location         : "Hong Kong SAR, China"
   employer         : #"Red Brick University"
   uri              : # URL
